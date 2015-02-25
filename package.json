@@ -8,6 +8,8 @@
     "cookie-parser": "> 1.0.1",
     "body-parser": "> 1.0.0",
     "ejs": "> 0.8.5",
-    "express-load": "~1.1.14"
+    "express-load": "~1.1.14",
+    "express-session": "~1.10.3",
+    "method-override": "~2.3.1"
   }
 }
