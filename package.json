@@ -4,9 +4,10 @@
   "version": "0.0.1",
   "private": false,
   "dependencies": {
-  "express": "> 4.2.0",
-  "cookie-parser": "> 1.0.1",
-  "body-parser": "> 1.0.0",
-  "ejs": "> 0.8.5"
-}
+    "express": "> 4.2.0",
+    "cookie-parser": "> 1.0.1",
+    "body-parser": "> 1.0.0",
+    "ejs": "> 0.8.5",
+    "express-load": "~1.1.14"
+  }
 }
